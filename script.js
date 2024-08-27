@@ -9,3 +9,6 @@ function getComputerChoice (computerChoice) {
     }
     return alert(computerChoice);
 }
+function getHumanChoice(humanChoice) {
+    humanChoice = prompt('Enter Rock, Paper, or Scissors');
+}
